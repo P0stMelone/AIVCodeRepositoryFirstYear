@@ -1,0 +1,7 @@
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\bin\Debug\Lezione_20241023.exe.config
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\bin\Debug\Lezione_20241023.exe
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\bin\Debug\Lezione_20241023.pdb
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\obj\Debug\Lezione_20241023.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\obj\Debug\Lezione_20241023.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\obj\Debug\Lezione_20241023.exe
+C:\Users\daven\Desktop\Lezione_20241023\Lezione_20241023\obj\Debug\Lezione_20241023.pdb
