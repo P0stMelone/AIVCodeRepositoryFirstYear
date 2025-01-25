@@ -1,0 +1,9 @@
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\bin\Debug\Lezione_20241120.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\bin\Debug\Lezione_20241120.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\bin\Debug\Lezione_20241120.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\bin\Debug\AivDraw.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\obj\Debug\Lezione_20241120.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\obj\Debug\Lezione_20241120.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\obj\Debug\Lezione_20241120.csproj.CopyComplete
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\obj\Debug\Lezione_20241120.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20241120\Lezione_20241120\Lezione_20241120\obj\Debug\Lezione_20241120.pdb
