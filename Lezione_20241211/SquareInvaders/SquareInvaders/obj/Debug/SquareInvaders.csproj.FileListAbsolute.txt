@@ -1,0 +1,11 @@
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\bin\Debug\SquareInvaders.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\bin\Debug\SquareInvaders.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\bin\Debug\SquareInvaders.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\bin\Debug\AivDraw.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\obj\Debug\SquareInvaders.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\obj\Debug\SquareInvaders.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\obj\Debug\SquareInvaders.csproj.CopyComplete
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\obj\Debug\SquareInvaders.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\obj\Debug\SquareInvaders.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\bin\Debug\Assets\alienBullet_1.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SquareInvaders\SquareInvaders\bin\Debug\Assets\alienBullet_0.png
