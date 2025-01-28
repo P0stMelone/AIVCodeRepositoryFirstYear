@@ -1,0 +1,7 @@
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\bin\Debug\CalcolatriceDivisione.exe.config
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\bin\Debug\CalcolatriceDivisione.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\bin\Debug\CalcolatriceDivisione.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\obj\Debug\CalcolatriceDivisione.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\obj\Debug\CalcolatriceDivisione.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\obj\Debug\CalcolatriceDivisione.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDivisione\obj\Debug\CalcolatriceDivisione.pdb

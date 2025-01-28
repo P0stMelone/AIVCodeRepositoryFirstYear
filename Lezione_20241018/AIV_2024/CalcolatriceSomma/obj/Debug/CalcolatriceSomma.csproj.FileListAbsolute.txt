@@ -1,0 +1,7 @@
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\obj\Debug\CalcolatriceSomma.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\obj\Debug\CalcolatriceSomma.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\bin\Debug\CalcolatriceSomma.exe.config
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\bin\Debug\CalcolatriceSomma.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\bin\Debug\CalcolatriceSomma.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\obj\Debug\CalcolatriceSomma.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceSomma\obj\Debug\CalcolatriceSomma.pdb

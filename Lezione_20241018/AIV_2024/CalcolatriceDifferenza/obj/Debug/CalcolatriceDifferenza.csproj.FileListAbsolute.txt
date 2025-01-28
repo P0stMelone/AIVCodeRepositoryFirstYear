@@ -1,0 +1,7 @@
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\bin\Debug\CalcolatriceDifferenza.exe.config
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\bin\Debug\CalcolatriceDifferenza.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\bin\Debug\CalcolatriceDifferenza.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\obj\Debug\CalcolatriceDifferenza.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\obj\Debug\CalcolatriceDifferenza.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\obj\Debug\CalcolatriceDifferenza.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceDifferenza\obj\Debug\CalcolatriceDifferenza.pdb

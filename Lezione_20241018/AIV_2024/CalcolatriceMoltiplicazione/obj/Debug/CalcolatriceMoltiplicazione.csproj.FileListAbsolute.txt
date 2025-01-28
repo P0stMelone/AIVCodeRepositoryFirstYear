@@ -1,0 +1,7 @@
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\bin\Debug\CalcolatriceMoltiplicazione.exe.config
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\bin\Debug\CalcolatriceMoltiplicazione.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\bin\Debug\CalcolatriceMoltiplicazione.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\obj\Debug\CalcolatriceMoltiplicazione.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\obj\Debug\CalcolatriceMoltiplicazione.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\obj\Debug\CalcolatriceMoltiplicazione.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\CalcolatriceMoltiplicazione\obj\Debug\CalcolatriceMoltiplicazione.pdb

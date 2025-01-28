@@ -1,0 +1,10 @@
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\bin\Debug\EsercizioBonus.exe.config
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\bin\Debug\EsercizioBonus.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\bin\Debug\EsercizioBonus.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.Properties.Resources.resources
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.csproj.GenerateResource.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\EsercizioBonus\obj\Debug\EsercizioBonus.Form1.resources

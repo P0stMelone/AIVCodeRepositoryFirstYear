@@ -1,0 +1,7 @@
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\bin\Release\Lezione_1.exe.config
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\bin\Release\Lezione_1.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\bin\Release\Lezione_1.pdb
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\obj\Release\Lezione_1.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\obj\Release\Lezione_1.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\obj\Release\Lezione_1.exe
+C:\Users\ricca\Documents\AIV\AIV_2024\Lezione_1\obj\Release\Lezione_1.pdb
