@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250113\\pooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|solutionrelative:pooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250113\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250113\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|solutionrelative:bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250113\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E9B90F-2CF5-4BBB-BEE0-0483C693A27D}|Lezione_20250113.csproj|solutionrelative:gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,45 +46,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BulletPool.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\BulletPool.cs",
-              "RelativeDocumentMoniker": "BulletPool.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\BulletPool.cs",
-              "RelativeToolTip": "BulletPool.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:24:41.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pooler.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Pooler.cs",
-              "RelativeDocumentMoniker": "Pooler.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Pooler.cs",
-              "RelativeToolTip": "Pooler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:24:38.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Bullet.cs",
-              "RelativeDocumentMoniker": "Bullet.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Bullet.cs",
-              "RelativeToolTip": "Bullet.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:24:40.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Gun.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Gun.cs",
@@ -93,7 +54,47 @@
               "RelativeToolTip": "Gun.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:24:41.775Z"
+              "WhenOpened": "2025-01-30T19:24:41.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletPool.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\BulletPool.cs",
+              "RelativeDocumentMoniker": "BulletPool.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\BulletPool.cs",
+              "RelativeToolTip": "BulletPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:24:41.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:24:40.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pooler.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Pooler.cs",
+              "RelativeDocumentMoniker": "Pooler.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250113\\Pooler.cs",
+              "RelativeToolTip": "Pooler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:24:38.753Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\",
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\users\\ricca\\desktop\\lezione_20250129\\spaceshooter_nocomponent\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\users\\ricca\\desktop\\lezione_20250129\\spaceshooter_nocomponent\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\users\\ricca\\desktop\\lezione_20250129\\spaceshooter_nocomponent\\bulletmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:bulletmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\users\\ricca\\desktop\\lezione_20250129\\spaceshooter_nocomponent\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\users\\ricca\\desktop\\lezione_20250129\\spaceshooter_nocomponent\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\gfxmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:gfxmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\bulletmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:bulletmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\updatemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:updatemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250129\\spaceshooter_nocomponent\\drawmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:drawmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\users\\ricca\\desktop\\lezione_20250129\\spaceshooter_nocomponent\\iupdatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\iupdatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:iupdatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GfxMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\GfxMgr.cs",
+              "RelativeDocumentMoniker": "GfxMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\GfxMgr.cs",
+              "RelativeToolTip": "GfxMgr.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:39:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\BulletMgr.cs",
+              "RelativeDocumentMoniker": "BulletMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\BulletMgr.cs",
+              "RelativeToolTip": "BulletMgr.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:27:50.021Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -54,26 +100,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\Game.cs",
-              "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\Game.cs",
-              "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Actor.cs",
+              "RelativeDocumentMoniker": "Actor.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Actor.cs",
+              "RelativeToolTip": "Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:29:00.788Z",
+              "WhenOpened": "2025-02-01T15:35:47.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Background.cs",
+              "RelativeDocumentMoniker": "Background.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Background.cs",
+              "RelativeToolTip": "Background.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:33:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:30:11.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\UpdateMgr.cs",
+              "RelativeDocumentMoniker": "UpdateMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\UpdateMgr.cs",
+              "RelativeToolTip": "UpdateMgr.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:55:54.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DrawMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\DrawMgr.cs",
+              "RelativeDocumentMoniker": "DrawMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\DrawMgr.cs",
+              "RelativeToolTip": "DrawMgr.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:55:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\Bullet.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Bullet.cs",
               "RelativeDocumentMoniker": "Bullet.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\Bullet.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\Bullet.cs",
               "RelativeToolTip": "Bullet.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T19:28:14.06Z",
               "EditorCaption": ""
@@ -81,36 +179,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BulletMgr.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\BulletMgr.cs",
-              "RelativeDocumentMoniker": "BulletMgr.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\BulletMgr.cs",
-              "RelativeToolTip": "BulletMgr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:27:50.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\GameObject.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\GameObject.cs",
               "RelativeDocumentMoniker": "GameObject.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\GameObject.cs*",
-              "RelativeToolTip": "GameObject.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T19:13:33.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IUpdatable.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\IUpdatable.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\IUpdatable.cs",
               "RelativeDocumentMoniker": "IUpdatable.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\IUpdatable.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\IUpdatable.cs",
               "RelativeToolTip": "IUpdatable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "IDrawable.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\IDrawable.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\IDrawable.cs",
               "RelativeDocumentMoniker": "IDrawable.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\Lezione_20250129\\SpaceShooter_NoComponent\\IDrawable.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250129\\SpaceShooter_NoComponent\\IDrawable.cs",
               "RelativeToolTip": "IDrawable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
