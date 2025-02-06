@@ -19,3 +19,24 @@ C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SpaceShooter_NoCo
 C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.csproj.CopyComplete
 C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.exe
 C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.pdb
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\blueLaser.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\enemy_ship.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\fireGlobe.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\greenGlobe.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\player_ship.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\powerUp_battery.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\powerUp_triple.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\redEnemy_ship.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\Assets\spaceBg.png
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\SpaceShooter_NoComponent.exe.config
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\SpaceShooter_NoComponent.exe
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\SpaceShooter_NoComponent.pdb
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\aiv-fast2d.dll
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\OpenTK.dll
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\OpenTK.pdb
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\bin\Debug\OpenTK.xml
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.csproj.AssemblyReference.cache
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.csproj.CoreCompileInputs.cache
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\obj\Debug\SpaceSho.251B9C52.Up2Date
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.exe
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250203\SpaceShooter_NoComponent\obj\Debug\SpaceShooter_NoComponent.pdb
