@@ -1,0 +1,7 @@
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\bin\Debug\Esercitazione.exe.config
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\bin\Debug\Esercitazione.exe
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\bin\Debug\Esercitazione.pdb
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\obj\Debug\Esercitazione.csproj.AssemblyReference.cache
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\obj\Debug\Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\obj\Debug\Esercitazione.exe
+C:\Users\ricca\Documents\AIV\CSharp\Esercitazione\Esercitazione\obj\Debug\Esercitazione.pdb

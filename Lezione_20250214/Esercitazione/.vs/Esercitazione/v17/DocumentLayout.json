@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\Esercitazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1764087F-7274-4874-A6C1-F65C9A8CDD38}|Esercitazione\\Esercitazione.csproj|c:\\users\\ricca\\documents\\aiv\\csharp\\esercitazione\\esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764087F-7274-4874-A6C1-F65C9A8CDD38}|Esercitazione\\Esercitazione.csproj|solutionrelative:esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\Esercitazione\\Esercitazione\\Program.cs",
+              "RelativeDocumentMoniker": "Esercitazione\\Program.cs",
+              "ToolTip": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\Esercitazione\\Esercitazione\\Program.cs",
+              "RelativeToolTip": "Esercitazione\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:07:49.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
