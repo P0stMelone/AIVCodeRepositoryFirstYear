@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250205\\spaceshooter_nocomponent\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250205\\spaceshooter_nocomponent\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250205\\spaceshooter_nocomponent\\physicsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:physicsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250205\\spaceshooter_nocomponent\\colliderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:colliderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250205\\spaceshooter_nocomponent\\circlecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:circlecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250205\\spaceshooter_nocomponent\\boxcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:boxcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\Background.cs",
+              "RelativeDocumentMoniker": "Background.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\Background.cs",
+              "RelativeToolTip": "Background.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:02:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:01:24.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhysicsMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\PhysicsMgr.cs",
+              "RelativeDocumentMoniker": "PhysicsMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\PhysicsMgr.cs",
+              "RelativeToolTip": "PhysicsMgr.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:32:47.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColliderFactory.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\ColliderFactory.cs",
+              "RelativeDocumentMoniker": "ColliderFactory.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\ColliderFactory.cs",
+              "RelativeToolTip": "ColliderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:32:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoxCollider.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\BoxCollider.cs",
+              "RelativeDocumentMoniker": "BoxCollider.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\BoxCollider.cs",
+              "RelativeToolTip": "BoxCollider.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:23:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleCollider.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\CircleCollider.cs",
+              "RelativeDocumentMoniker": "CircleCollider.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250205\\SpaceShooter_NoComponent\\CircleCollider.cs",
+              "RelativeToolTip": "CircleCollider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:16:41.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
