@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\Esercitazione\\",
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250214\\Esercitazione\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1764087F-7274-4874-A6C1-F65C9A8CDD38}|Esercitazione\\Esercitazione.csproj|c:\\users\\ricca\\documents\\aiv\\csharp\\esercitazione\\esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1764087F-7274-4874-A6C1-F65C9A8CDD38}|Esercitazione\\Esercitazione.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250214\\esercitazione\\esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1764087F-7274-4874-A6C1-F65C9A8CDD38}|Esercitazione\\Esercitazione.csproj|solutionrelative:esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\Esercitazione\\Esercitazione\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250214\\Esercitazione\\Esercitazione\\Program.cs",
               "RelativeDocumentMoniker": "Esercitazione\\Program.cs",
-              "ToolTip": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\Esercitazione\\Esercitazione\\Program.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250214\\Esercitazione\\Esercitazione\\Program.cs",
               "RelativeToolTip": "Esercitazione\\Program.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAcwJsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T16:07:49.071Z",
               "EditorCaption": ""
