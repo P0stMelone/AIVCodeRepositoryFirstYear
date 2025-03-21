@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathfinding", "Pathfinding\Pathfinding.csproj", "{723C1A29-47EC-4A93-ABD4-836956DEB744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AivAlgo", "AivAlgo\AivAlgo.csproj", "{E384AC87-8E6B-4A40-94F5-ACD55E952672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Training.csproj", "{C1B7624D-57C7-4EE4-942B-70F83DD4007A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723C1A29-47EC-4A93-ABD4-836956DEB744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723C1A29-47EC-4A93-ABD4-836956DEB744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723C1A29-47EC-4A93-ABD4-836956DEB744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723C1A29-47EC-4A93-ABD4-836956DEB744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E384AC87-8E6B-4A40-94F5-ACD55E952672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E384AC87-8E6B-4A40-94F5-ACD55E952672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E384AC87-8E6B-4A40-94F5-ACD55E952672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E384AC87-8E6B-4A40-94F5-ACD55E952672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B7624D-57C7-4EE4-942B-70F83DD4007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B7624D-57C7-4EE4-942B-70F83DD4007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B7624D-57C7-4EE4-942B-70F83DD4007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B7624D-57C7-4EE4-942B-70F83DD4007A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8F475D-5224-4D18-9D7D-B698902F3A09}
+	EndGlobalSection
+EndGlobal

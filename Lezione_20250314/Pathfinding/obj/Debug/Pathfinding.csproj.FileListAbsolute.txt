@@ -1,0 +1,32 @@
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.CopyComplete
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.AssemblyReference.cache
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.CopyComplete
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\bianc\Desktop\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.AssemblyReference.cache
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\obj\Debug\Pathfind.CF177E20.Up2Date
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\bianc\Desktop\AIV\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb

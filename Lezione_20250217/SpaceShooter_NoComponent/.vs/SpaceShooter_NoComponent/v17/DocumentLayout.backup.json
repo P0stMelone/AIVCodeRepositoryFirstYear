@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\physicsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:physicsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\iceglobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:iceglobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250217\\spaceshooter_nocomponent\\font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250217\\spaceshooter_nocomponent\\fontmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:fontmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\fireglobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:fireglobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250217\\spaceshooter_nocomponent\\textobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:textobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250217\\spaceshooter_nocomponent\\textchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F3642F-1163-42BF-BA40-EFC9E4E9CB98}|SpaceShooter_NoComponent.csproj|solutionrelative:textchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FontMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\FontMgr.cs",
+              "RelativeDocumentMoniker": "FontMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\FontMgr.cs",
+              "RelativeToolTip": "FontMgr.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:13:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Font.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\Font.cs",
+              "RelativeDocumentMoniker": "Font.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\Font.cs",
+              "RelativeToolTip": "Font.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:13:40.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextObject.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\TextObject.cs",
+              "RelativeDocumentMoniker": "TextObject.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\TextObject.cs",
+              "RelativeToolTip": "TextObject.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:12:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextChar.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\TextChar.cs",
+              "RelativeDocumentMoniker": "TextChar.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\TextChar.cs",
+              "RelativeToolTip": "TextChar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:12:35.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IceGlobe.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\IceGlobe.cs",
+              "RelativeDocumentMoniker": "IceGlobe.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\IceGlobe.cs",
+              "RelativeToolTip": "IceGlobe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:19:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FireGlobe.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\FireGlobe.cs",
+              "RelativeDocumentMoniker": "FireGlobe.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\FireGlobe.cs",
+              "RelativeToolTip": "FireGlobe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:19:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhysicsMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\PhysicsMgr.cs",
+              "RelativeDocumentMoniker": "PhysicsMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\PhysicsMgr.cs",
+              "RelativeToolTip": "PhysicsMgr.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:00:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250217\\SpaceShooter_NoComponent\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:54:27.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
