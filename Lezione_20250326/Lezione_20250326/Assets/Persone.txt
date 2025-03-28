@@ -1,0 +1,3 @@
+﻿Davide,Caio,36
+Mario,Rossi,54
+Tricy,Estinto,64000000
