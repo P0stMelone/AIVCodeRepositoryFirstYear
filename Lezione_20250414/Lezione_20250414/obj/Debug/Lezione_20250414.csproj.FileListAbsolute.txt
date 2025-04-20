@@ -1,0 +1,7 @@
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\bin\Debug\Lezione_20250414.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\bin\Debug\Lezione_20250414.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\bin\Debug\Lezione_20250414.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\obj\Debug\Lezione_20250414.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\obj\Debug\Lezione_20250414.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\obj\Debug\Lezione_20250414.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250414\obj\Debug\Lezione_20250414.pdb
