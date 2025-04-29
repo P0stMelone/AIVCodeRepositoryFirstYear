@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\",
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\game\\scripts\\component\\enemycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\enemycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250409\\aiv.fast2d.component\\game\\scripts\\component\\bouncebordercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\bouncebordercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\users\\ricca\\desktop\\progettomelone\\aiv.fast2d.component\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\game\\scripts\\component\\enemymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\enemymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\game\\scripts\\component\\enemymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\enemymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250409\\aiv.fast2d.component\\game\\scripts\\component\\enemycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\enemycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BounceBorderComponent.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\BounceBorderComponent.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\BounceBorderComponent.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\BounceBorderComponent.cs",
+              "RelativeToolTip": "Game\\Scripts\\Component\\BounceBorderComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:09:54.821Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -42,36 +59,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EnemyComponent.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyComponent.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyComponent.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Component\\EnemyComponent.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyComponent.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyComponent.cs",
               "RelativeToolTip": "Game\\Scripts\\Component\\EnemyComponent.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwEwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T09:15:41.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EnemyMgr.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyMgr.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Component\\EnemyMgr.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Component\\EnemyMgr.cs",
               "RelativeToolTip": "Game\\Scripts\\Component\\EnemyMgr.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwBwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:15:00.231Z"
+              "WhenOpened": "2025-04-01T09:15:00.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayScene.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\Game\\Scripts\\Scene\\PlayScene.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Scene\\PlayScene.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Scene\\PlayScene.cs",
-              "ToolTip": "C:\\Users\\ricca\\Desktop\\ProgettoMelone\\Aiv.Fast2D.Component\\Game\\Scripts\\Scene\\PlayScene.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250409\\Aiv.Fast2D.Component\\Game\\Scripts\\Scene\\PlayScene.cs",
               "RelativeToolTip": "Game\\Scripts\\Scene\\PlayScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
