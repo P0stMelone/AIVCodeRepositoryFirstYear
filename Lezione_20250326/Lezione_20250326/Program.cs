@@ -9,15 +9,36 @@ namespace Lezione_20250326 {
 
         const string esercizio1Path = @"Assets\Config.txt";
         const string esercizio2Path = @"Assets\Persone.txt";
+        //caricamento file esterno
+        const string ripasso = @"Assets\fileDario.txt";
 
         static void Main(string[] args) {
             //Esercizio1();
             //Esercizio2();
             //Esercizio3();
             //Esercizio4();
-            Esercizio5();
+            //Esercizio5();
+            Ripasso();
             Console.ReadLine();
         }
+
+        static void Ripasso() {
+            //verifica del file esistente
+            if (!File.Exists(ripasso)) {
+                //creare file
+                return;
+            }
+            //leggiamo tutte le linee (riconosce l'andare a capo da solo)
+            string[] lines = File.ReadAllLines(ripasso);
+            //prendiamo la singola linea (line) dalle linee (lines)
+            foreach(string line in lines) {
+                //crea argomento prima e dopo ogni separatore
+                string[] argomento = line.Split(',');
+                Console.WriteLine(argomento[2]);
+                Console.WriteLine(argomento[1]);
+            }
+        }
+
 
         static void Esercizio1 () {
             Console.WriteLine("Inizio il programma");

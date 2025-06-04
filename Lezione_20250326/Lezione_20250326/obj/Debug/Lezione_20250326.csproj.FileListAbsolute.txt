@@ -7,3 +7,13 @@ C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250326\
 C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250326\obj\Debug\Lezione_20250326.pdb
 C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250326\bin\Debug\Assets\Config.txt
 C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Lezione_20250326\bin\Debug\Assets\Persone.txt
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\bin\Debug\Assets\fileDario.txt
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\bin\Debug\Assets\Persone.txt
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\bin\Debug\Assets\Config.txt
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\bin\Debug\Lezione_20250326.exe.config
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\bin\Debug\Lezione_20250326.exe
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\bin\Debug\Lezione_20250326.pdb
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\obj\Debug\Lezione_20250326.csproj.AssemblyReference.cache
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\obj\Debug\Lezione_20250326.csproj.CoreCompileInputs.cache
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\obj\Debug\Lezione_20250326.exe
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250326\Lezione_20250326\obj\Debug\Lezione_20250326.pdb

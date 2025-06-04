@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250326\\lezione_20250326_classiserializzabili\\game\\scripts\\utility\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250326\\lezione_20250326_classiserializzabili\\game\\scripts\\component\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\game\\scripts\\utility\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\game\\scripts\\utility\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,10 +30,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
@@ -37,27 +37,44 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\Game\\Scripts\\Utility\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Utility\\PlayerData.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\Game\\Scripts\\Utility\\PlayerData.cs",
+              "RelativeToolTip": "Game\\Scripts\\Utility\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:58:50.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GameLogic.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\Game\\Scripts\\Component\\GameLogic.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Component\\GameLogic.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\Game\\Scripts\\Component\\GameLogic.cs",
               "RelativeToolTip": "Game\\Scripts\\Component\\GameLogic.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T23:07:58.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\Game\\Scripts\\Utility\\GameData.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Utility\\GameData.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250326\\Lezione_20250326_ClassiSerializzabili\\Game\\Scripts\\Utility\\GameData.cs",
               "RelativeToolTip": "Game\\Scripts\\Utility\\GameData.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T23:07:46.36Z",
               "EditorCaption": ""

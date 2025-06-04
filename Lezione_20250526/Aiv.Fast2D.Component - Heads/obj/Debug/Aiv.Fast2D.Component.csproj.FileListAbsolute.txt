@@ -1,0 +1,147 @@
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\aivBG.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\blueLaser.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\comics.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\enemy_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\fireGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\gameOverBg.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\greenGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\loadingBar_bar.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\loadingBar_frame.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\player_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\powerUp_battery.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\powerUp_triple.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\redEnemy_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\spaceBg.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Game\Assets\textSheet.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\aivBG.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\blueLaser.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\comics.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\enemy_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\fireGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\gameOverBg.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\greenGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\loadingBar_bar.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\loadingBar_frame.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\player_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\powerUp_battery.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\powerUp_triple.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\redEnemy_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\spaceBg.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Game\Assets\textSheet.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - FSM\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\aivBG.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\blueLaser.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\comics.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\enemy_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\fireGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\gameOverBg.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\greenGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\loadingBar_bar.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\loadingBar_frame.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\player_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\powerUp_battery.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\powerUp_triple.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\redEnemy_ship.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\spaceBg.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Assets\textSheet.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Game\Audio\cannonShoot.wav
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\aiv-audio.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\NVorbis.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\System.ValueTuple.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\NVorbis.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\bin\Debug\System.ValueTuple.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - ES\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\bg_0.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\bg_1.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\bg_2.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\bg_3.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\comics.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\earthGrass.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\greenGlobe.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\Link_Sheet.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\loadingBar_bar.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\loadingBar_frame.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\player.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\sky.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\stone.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Assets\textSheet.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Game\Audio\cannonShoot.wav
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\aiv-audio.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\NVorbis.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\System.ValueTuple.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\NVorbis.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\bin\Debug\System.ValueTuple.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Bullets\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\comics.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\enemy_0.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\enemy_1.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\fireball.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\heart.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\hex_grid_green.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\loadingBar_bar.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\loadingBar_frame.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\player_1.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\player_2.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Game\Assets\textSheet.png
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\aiv-audio.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\NVorbis.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\System.ValueTuple.dll
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\NVorbis.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\bin\Debug\System.ValueTuple.xml
+C:\Users\daven\Desktop\AIV - Temp\2024\1_Lezioni visual studio\Aiv.Fast2D.Component - Heads\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
