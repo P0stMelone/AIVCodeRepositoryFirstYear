@@ -1,0 +1,18 @@
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\AivAlgo\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\AivAlgo\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\AivAlgo\obj\Debug\AivAlgo.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\AivAlgo\obj\Debug\AivAlgo.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\AivAlgo\obj\Debug\AivAlgo.dll
+C:\Users\bianc\Documents\Visual Studio 2022\Projects\Pathfinding\AivAlgo\obj\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\Pathfinding\AivAlgo\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\Pathfinding\AivAlgo\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\Pathfinding\AivAlgo\obj\Debug\AivAlgo.csproj.AssemblyReference.cache
+C:\Users\bianc\Desktop\Pathfinding\AivAlgo\obj\Debug\AivAlgo.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Pathfinding\AivAlgo\obj\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\Pathfinding\AivAlgo\obj\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\AivAlgo\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\AIV\Pathfinding\AivAlgo\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\AivAlgo\obj\Debug\AivAlgo.csproj.AssemblyReference.cache
+C:\Users\bianc\Desktop\AIV\Pathfinding\AivAlgo\obj\Debug\AivAlgo.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AIV\Pathfinding\AivAlgo\obj\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\AIV\Pathfinding\AivAlgo\obj\Debug\AivAlgo.pdb

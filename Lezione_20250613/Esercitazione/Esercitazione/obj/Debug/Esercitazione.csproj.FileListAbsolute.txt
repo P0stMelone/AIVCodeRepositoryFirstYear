@@ -1,0 +1,8 @@
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\obj\Debug\Esercitazione.csproj.AssemblyReference.cache
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\obj\Debug\Esercitazione.csproj.CoreCompileInputs.cache
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\bin\Debug\Esercitazione.exe.config
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\bin\Debug\Esercitazione.exe
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\bin\Debug\Esercitazione.pdb
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\obj\Debug\Esercitazione.exe
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\obj\Debug\Esercitazione.pdb
+C:\GitHub\AIVCodeRepositoryFirstYear\Lezione_20250613\Esercitazione\Esercitazione\bin\Debug\Esercizio2\example.xml

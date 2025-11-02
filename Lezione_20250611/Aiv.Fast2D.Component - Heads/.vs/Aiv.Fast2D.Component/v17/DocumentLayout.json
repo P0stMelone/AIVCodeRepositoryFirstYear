@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250611\\aiv.fast2d.component - heads\\game\\scripts\\fsm\\inlineofsight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\fsm\\inlineofsight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250611\\aiv.fast2d.component - heads\\game\\scripts\\component\\facevelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\facevelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\engine\\manager\\physicsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:engine\\manager\\physicsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\engine\\core\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:engine\\core\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InLineOfSight.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Game\\Scripts\\FSM\\InLineOfSight.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\FSM\\InLineOfSight.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Game\\Scripts\\FSM\\InLineOfSight.cs",
+              "RelativeToolTip": "Game\\Scripts\\FSM\\InLineOfSight.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:42:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceVelocity.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Game\\Scripts\\Component\\FaceVelocity.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\FaceVelocity.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Game\\Scripts\\Component\\FaceVelocity.cs",
+              "RelativeToolTip": "Game\\Scripts\\Component\\FaceVelocity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:08:33.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Engine\\Game.cs",
+              "RelativeDocumentMoniker": "Engine\\Game.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Engine\\Game.cs",
+              "RelativeToolTip": "Engine\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:04:22.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Engine\\Core\\GameObject.cs",
+              "RelativeDocumentMoniker": "Engine\\Core\\GameObject.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Engine\\Core\\GameObject.cs",
+              "RelativeToolTip": "Engine\\Core\\GameObject.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAwwK8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:04:40.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhysicsMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Engine\\Manager\\PhysicsMgr.cs",
+              "RelativeDocumentMoniker": "Engine\\Manager\\PhysicsMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250611\\Aiv.Fast2D.Component - Heads\\Engine\\Manager\\PhysicsMgr.cs",
+              "RelativeToolTip": "Engine\\Manager\\PhysicsMgr.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwF4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:51:58.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

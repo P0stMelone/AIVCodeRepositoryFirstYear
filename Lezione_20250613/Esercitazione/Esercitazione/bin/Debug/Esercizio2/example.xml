@@ -1,0 +1,54 @@
+<saveFile>
+    <world level="aivland">
+        <area name="entrance" state="cleared" />
+        <area name="hall00" state="cleared" />
+        <area name="corridor1" state="cleared" />
+        <door name="fakeBrickWall" state="open" />
+        <door name="lockedDoor5" state="open" />
+        <door name="secretDoor1" state="open" />
+        <spawner type="player" name="checkpoint3" state="current" />
+        <spawner type="player" name="checkpoint2" state="unlocked" />
+        <spawner type="player" name="checkpoint1" state="unlocked" />
+        <spawner type="enemy" name="wave1" state="inactive" />
+        <spawner type="enemy" name="wave2" state="active">
+            <spawn class="enemyA" id="NMY23" position="3.4,11.8,1123.1223" />
+            <spawn class="enemyA" id="NMY25" position="7.4,1.38,3.364" />
+            <spawn class="enemyA" id="NMY31" position="35.64,141.86,123.23" />
+        </spawner>
+    </world>
+    <player id="0" position="9.23,235.245,439.23">
+        <component class="HP">
+            <attribute id="current" value=80 />
+            <attribute id="max" value=130 />
+        </component>
+        <component class="Weapon">
+            <attribute id="class" value="pistol" />
+            <attribute id="ammo" value=8 />
+        </component>
+        <component class="Inventory">
+            <attribute id="grid">
+                <item class="food" count=3 />
+                <item class="blue_key" count=1 />
+                <item class="shotgun" count=1 />
+            </attribute>
+        </component>
+    </player>
+    <NPC id="NMY25">
+        <component class="HP">
+            <attribute id="current" value=20 />
+            <attribute id="max" value=20 />
+        </component>
+    </NPC>
+    <NPC id="NMY31">
+        <component class="HP">
+            <attribute id="current" value=20 />
+            <attribute id="max" value=20 />
+        </component>
+    </NPC>
+    <NPC id="NMY23">
+        <component class="HP">
+            <attribute id="current" value=20 />
+            <attribute id="max" value=20 />
+        </component>
+    </NPC>
+</saveFile>

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250310\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250310\\newnamespace\\structdalnomelungo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|solutionrelative:newnamespace\\structdalnomelungo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|solutionrelative:box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|solutionrelative:mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250310\\newnamespace\\structdalnomelungo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|solutionrelative:newnamespace\\structdalnomelungo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250310\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A4AEB5-4FA6-4D4C-B508-4A2980D11D09}|Lezione_20250310.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StructDalNomeLungo.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\NewNameSpace\\StructDalNomeLungo.cs",
               "RelativeDocumentMoniker": "NewNameSpace\\StructDalNomeLungo.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\NewNameSpace\\StructDalNomeLungo.cs",
               "RelativeToolTip": "NewNameSpace\\StructDalNomeLungo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:10:35.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Box.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\Box.cs",
               "RelativeDocumentMoniker": "Box.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\Box.cs",
               "RelativeToolTip": "Box.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T11:04:49.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MyList.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\MyList.cs",
               "RelativeDocumentMoniker": "MyList.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250310\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

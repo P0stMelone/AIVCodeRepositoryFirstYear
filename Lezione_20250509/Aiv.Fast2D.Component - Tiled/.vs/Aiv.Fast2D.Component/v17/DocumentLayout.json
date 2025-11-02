@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250509\\aiv.fast2d.component - tiled\\game\\assets\\level25.tmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\assets\\level25.tmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250509\\aiv.fast2d.component - tiled\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250509\\aiv.fast2d.component - tiled\\game\\scripts\\utility\\layermesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\game\\scripts\\utility\\layermesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\layermesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\game\\scripts\\utility\\tileset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\tileset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\game\\assets\\level25-tileset.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\assets\\level25-tileset.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\engine\\core\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,31 +66,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "level25-Tileset.png",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Assets\\level25-Tileset.png",
-              "RelativeDocumentMoniker": "Game\\Assets\\level25-Tileset.png",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Assets\\level25-Tileset.png",
-              "RelativeToolTip": "Game\\Assets\\level25-Tileset.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-05-15T19:01:41.461Z"
+              "DocumentIndex": 0,
+              "Title": "level25.tmx",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Assets\\level25.tmx",
+              "RelativeDocumentMoniker": "Game\\Assets\\level25.tmx",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Assets\\level25.tmx",
+              "RelativeToolTip": "Game\\Assets\\level25.tmx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T15:52:05.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAD4v0IAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:32:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayScene.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Scene\\PlayScene.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Scene\\PlayScene.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Scene\\PlayScene.cs",
               "RelativeToolTip": "Game\\Scripts\\Scene\\PlayScene.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwDIAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T10:09:44.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Layer.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Utility\\Layer.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Utility\\Layer.cs",
@@ -98,12 +113,11 @@
               "RelativeToolTip": "Game\\Scripts\\Utility\\Layer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:50:19.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T17:50:19.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Tileset.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Utility\\Tileset.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Utility\\Tileset.cs",
@@ -115,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LayerMesh.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Utility\\LayerMesh.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Utility\\LayerMesh.cs",
@@ -123,8 +137,7 @@
               "RelativeToolTip": "Game\\Scripts\\Utility\\LayerMesh.cs",
               "ViewState": "AgIAAA0BAAAAAAAAAAAswHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:37:19.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T17:37:19.496Z"
             },
             {
               "$type": "Document",
@@ -140,32 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Engine\\Game.cs",
               "RelativeDocumentMoniker": "Engine\\Game.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Engine\\Game.cs",
               "RelativeToolTip": "Engine\\Game.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAmwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T16:16:32.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAawA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:32:50.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Component\\PlayerController.cs",
               "RelativeDocumentMoniker": "Game\\Scripts\\Component\\PlayerController.cs",
@@ -173,8 +174,7 @@
               "RelativeToolTip": "Game\\Scripts\\Component\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:33:40.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:33:40.696Z"
             }
           ]
         }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250521\\aiv.fast2d.component - bullets\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250521\\aiv.fast2d.component - bullets\\game\\scripts\\component\\bulletmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\bulletmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250521\\aiv.fast2d.component - bullets\\game\\scripts\\component\\enemymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\enemymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\component\\shootmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\shootmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\fsm\\setvelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\fsm\\setvelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\component\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\fsm\\checkdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\fsm\\checkdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\fsm\\shootattarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\fsm\\shootattarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\fsm\\fsmtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\fsm\\fsmtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\fsm\\exittime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\fsm\\exittime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\game\\scripts\\component\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\component\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,80 +50,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayScene.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Scene\\PlayScene.cs",
-              "RelativeDocumentMoniker": "Game\\Scripts\\Scene\\PlayScene.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Scene\\PlayScene.cs*",
-              "RelativeToolTip": "Game\\Scripts\\Scene\\PlayScene.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ShootAtTarget.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\ShootAtTarget.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\FSM\\ShootAtTarget.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\ShootAtTarget.cs",
+              "RelativeToolTip": "Game\\Scripts\\FSM\\ShootAtTarget.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:07:21.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T12:53:58.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyMgr.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\EnemyMgr.cs",
-              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\EnemyMgr.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\EnemyMgr.cs",
-              "RelativeToolTip": "Game\\Scripts\\Component\\EnemyMgr.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\PlayerController.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\PlayerController.cs",
+              "RelativeToolTip": "Game\\Scripts\\Component\\PlayerController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T14:22:21.377Z",
+              "WhenOpened": "2025-06-04T12:53:47.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletMgr.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\BulletMgr.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\BulletMgr.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\BulletMgr.cs",
+              "RelativeToolTip": "Game\\Scripts\\Component\\BulletMgr.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:38:49.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FSMTemplates.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\FSMTemplates.cs",
-              "RelativeDocumentMoniker": "Game\\Scripts\\FSM\\FSMTemplates.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\FSMTemplates.cs",
-              "RelativeToolTip": "Game\\Scripts\\FSM\\FSMTemplates.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAlwI4AAAAyAAAAAAAAAA==",
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\Bullet.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\Bullet.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\Bullet.cs",
+              "RelativeToolTip": "Game\\Scripts\\Component\\Bullet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:33:35.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T12:38:49.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExitTime.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\ExitTime.cs",
-              "RelativeDocumentMoniker": "Game\\Scripts\\FSM\\ExitTime.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\ExitTime.cs",
-              "RelativeToolTip": "Game\\Scripts\\FSM\\ExitTime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ShootModule.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\ShootModule.cs",
+              "RelativeDocumentMoniker": "Game\\Scripts\\Component\\ShootModule.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\Component\\ShootModule.cs",
+              "RelativeToolTip": "Game\\Scripts\\Component\\ShootModule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:14:14.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SetVelocity.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\SetVelocity.cs",
-              "RelativeDocumentMoniker": "Game\\Scripts\\FSM\\SetVelocity.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\SetVelocity.cs",
-              "RelativeToolTip": "Game\\Scripts\\FSM\\SetVelocity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:21:46.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CheckDistance.cs",
-              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\CheckDistance.cs",
-              "RelativeDocumentMoniker": "Game\\Scripts\\FSM\\CheckDistance.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250521\\Aiv.Fast2D.Component - Bullets\\Game\\Scripts\\FSM\\CheckDistance.cs",
-              "RelativeToolTip": "Game\\Scripts\\FSM\\CheckDistance.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:52:19.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T12:38:47.269Z"
             }
           ]
         }

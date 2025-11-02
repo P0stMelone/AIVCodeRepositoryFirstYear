@@ -1,0 +1,10 @@
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\bin\Debug\Training.exe.config
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\bin\Debug\Training.exe
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\bin\Debug\Training.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\obj\Debug\Training.csproj.AssemblyReference.cache
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\obj\Debug\Training.exe
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\obj\Debug\Training.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\bin\Debug\AivAlgo.dll
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\bin\Debug\AivAlgo.pdb
+C:\Users\bianc\Desktop\AIV\Pathfinding\Training\obj\Debug\Training.csproj.Up2Date

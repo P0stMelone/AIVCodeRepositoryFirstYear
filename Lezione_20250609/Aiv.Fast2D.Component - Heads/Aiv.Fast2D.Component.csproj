@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Aiv.Fast2D.Component</RootNamespace>
+    <AssemblyName>Aiv.Fast2D.Component</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="aiv-audio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Aiv.Audio.0.2.2\lib\net40\aiv-audio.dll</HintPath>
+    </Reference>
+    <Reference Include="aiv-fast2d, Version=1.0.7820.23607, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Aiv.Fast2D.1.0.4\lib\net48\aiv-fast2d.dll</HintPath>
+    </Reference>
+    <Reference Include="NVorbis, Version=0.9.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\NVorbis.0.9.1\lib\net45\NVorbis.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=3.2.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>packages\OpenTK.3.2\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Engine\Core\AudioSource.cs" />
+    <Compile Include="Engine\Core\BoxCollider.cs" />
+    <Compile Include="Engine\Core\CircleCollider.cs" />
+    <Compile Include="Engine\Core\Collider.cs" />
+    <Compile Include="Engine\Core\ColliderFactory.cs" />
+    <Compile Include="Engine\Core\Collision.cs" />
+    <Compile Include="Engine\Core\Component.cs" />
+    <Compile Include="Engine\Core\Font.cs" />
+    <Compile Include="Engine\Core\GameObject.cs" />
+    <Compile Include="Engine\Core\Input.cs" />
+    <Compile Include="Engine\Core\RandomGenerator.cs" />
+    <Compile Include="Engine\Core\Rigidbody.cs" />
+    <Compile Include="Engine\Core\Scene.cs" />
+    <Compile Include="Engine\Core\Sheet.cs" />
+    <Compile Include="Engine\Core\SheetAnimator.cs" />
+    <Compile Include="Engine\Core\SheetClip.cs" />
+    <Compile Include="Engine\Core\SpriteRenderer.cs" />
+    <Compile Include="Engine\Core\TextBox.cs" />
+    <Compile Include="Engine\Core\Transform.cs" />
+    <Compile Include="Engine\Core\UserComponent.cs" />
+    <Compile Include="Engine\FSM\Action.cs" />
+    <Compile Include="Engine\FSM\Condition.cs" />
+    <Compile Include="Engine\FSM\ExecutableNode.cs" />
+    <Compile Include="Engine\FSM\FSMComponent.cs" />
+    <Compile Include="Engine\FSM\SetVariableAction.cs" />
+    <Compile Include="Engine\FSM\State.cs" />
+    <Compile Include="Engine\FSM\StateMachine.cs" />
+    <Compile Include="Engine\FSM\StateMachineVariable.cs" />
+    <Compile Include="Engine\FSM\Transition.cs" />
+    <Compile Include="Engine\Game.cs" />
+    <Compile Include="Engine\Interface\ICollidable.cs" />
+    <Compile Include="Engine\Interface\IDrawable.cs" />
+    <Compile Include="Engine\Interface\IFixedUpdatable.cs" />
+    <Compile Include="Engine\Interface\IStartable.cs" />
+    <Compile Include="Engine\Interface\IUpdatable.cs" />
+    <Compile Include="Engine\Manager\AudioMgr.cs" />
+    <Compile Include="Engine\Manager\CameraMgr.cs" />
+    <Compile Include="Engine\Manager\DrawMgr.cs" />
+    <Compile Include="Engine\Manager\FontMgr.cs" />
+    <Compile Include="Engine\Manager\GfxMgr.cs" />
+    <Compile Include="Engine\Manager\PhysicsMgr.cs" />
+    <Compile Include="Game\Scripts\Component\Enemy.cs" />
+    <Compile Include="Game\Scripts\Component\FaceVelocity.cs" />
+    <Compile Include="Game\Scripts\Component\HealthModule.cs" />
+    <Compile Include="Game\Scripts\Component\PlayerController.cs" />
+    <Compile Include="Game\Scripts\Component\ShootModule.cs" />
+    <Compile Include="Game\Scripts\EventManager\EventArgs.cs" />
+    <Compile Include="Game\Scripts\EventManager\EventArgsFactory.cs" />
+    <Compile Include="Game\Scripts\EventManager\EventManager.cs" />
+    <Compile Include="Game\Scripts\Component\Bullet.cs" />
+    <Compile Include="Game\Scripts\Component\BulletMgr.cs" />
+    <Compile Include="Game\Scripts\FSM\CheckDistance.cs" />
+    <Compile Include="Game\Scripts\FSM\CompareYPosition.cs" />
+    <Compile Include="Game\Scripts\FSM\ExitTime.cs" />
+    <Compile Include="Game\Scripts\FSM\FollowTarget.cs" />
+    <Compile Include="Game\Scripts\FSM\FSMTemplate.cs" />
+    <Compile Include="Game\Scripts\FSM\InLineOfSight.cs" />
+    <Compile Include="Game\Scripts\FSM\RandomizeTransformPosition.cs" />
+    <Compile Include="Game\Scripts\FSM\RotateToTarget.cs" />
+    <Compile Include="Game\Scripts\FSM\SetColliderOffset.cs" />
+    <Compile Include="Game\Scripts\FSM\SetScale.cs" />
+    <Compile Include="Game\Scripts\FSM\SetSpriteColor.cs" />
+    <Compile Include="Game\Scripts\FSM\SetVelocity.cs" />
+    <Compile Include="Game\Scripts\FSM\ShootAction.cs" />
+    <Compile Include="Game\Scripts\Interface\IDamagable.cs" />
+    <Compile Include="Game\Scripts\Scene\PlayScene.cs" />
+    <Compile Include="Game\Scripts\Utility\ComparerUtility.cs" />
+    <Compile Include="Game\Scripts\Utility\RandomTimer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game\Assets\comics.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\enemy_0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\enemy_1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\fireball.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\heart.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\hex_grid_green.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\loadingBar_bar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\loadingBar_frame.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\player_1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\player_2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Game\Assets\textSheet.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Game\Audio\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

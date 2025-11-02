@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{723C1A29-47EC-4A93-ABD4-836956DEB744}|Pathfinding\\Pathfinding.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250321\\pathfinding\\simplemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723C1A29-47EC-4A93-ABD4-836956DEB744}|Pathfinding\\Pathfinding.csproj|solutionrelative:pathfinding\\simplemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723C1A29-47EC-4A93-ABD4-836956DEB744}|Pathfinding\\Pathfinding.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250321\\pathfinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723C1A29-47EC-4A93-ABD4-836956DEB744}|Pathfinding\\Pathfinding.csproj|solutionrelative:pathfinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B7624D-57C7-4EE4-942B-70F83DD4007A}|Training\\Training.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250321\\training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B7624D-57C7-4EE4-942B-70F83DD4007A}|Training\\Training.csproj|solutionrelative:training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E384AC87-8E6B-4A40-94F5-ACD55E952672}|AivAlgo\\AivAlgo.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250321\\aivalgo\\searchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E384AC87-8E6B-4A40-94F5-ACD55E952672}|AivAlgo\\AivAlgo.csproj|solutionrelative:aivalgo\\searchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E384AC87-8E6B-4A40-94F5-ACD55E952672}|AivAlgo\\AivAlgo.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250321\\aivalgo\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E384AC87-8E6B-4A40-94F5-ACD55E952672}|AivAlgo\\AivAlgo.csproj|solutionrelative:aivalgo\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E384AC87-8E6B-4A40-94F5-ACD55E952672}|AivAlgo\\AivAlgo.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250321\\aivalgo\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E384AC87-8E6B-4A40-94F5-ACD55E952672}|AivAlgo\\AivAlgo.csproj|solutionrelative:aivalgo\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\Training\\Program.cs",
+              "RelativeDocumentMoniker": "Training\\Program.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\Training\\Program.cs",
+              "RelativeToolTip": "Training\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:06:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchTree.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\AivAlgo\\SearchTree.cs",
+              "RelativeDocumentMoniker": "AivAlgo\\SearchTree.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\AivAlgo\\SearchTree.cs",
+              "RelativeToolTip": "AivAlgo\\SearchTree.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:05:56.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\AivAlgo\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "AivAlgo\\PriorityQueue.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\AivAlgo\\PriorityQueue.cs",
+              "RelativeToolTip": "AivAlgo\\PriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:05:55.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Algo.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\AivAlgo\\Algo.cs",
+              "RelativeDocumentMoniker": "AivAlgo\\Algo.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\AivAlgo\\Algo.cs",
+              "RelativeToolTip": "AivAlgo\\Algo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:05:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleMap.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\Pathfinding\\SimpleMap.cs",
+              "RelativeDocumentMoniker": "Pathfinding\\SimpleMap.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\Pathfinding\\SimpleMap.cs",
+              "RelativeToolTip": "Pathfinding\\SimpleMap.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:05:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\Pathfinding\\Program.cs",
+              "RelativeDocumentMoniker": "Pathfinding\\Program.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250321\\Pathfinding\\Program.cs",
+              "RelativeToolTip": "Pathfinding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:05:27.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

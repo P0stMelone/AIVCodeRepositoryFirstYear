@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\AIV_2024\\",
+  "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20241018\\AIV_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57AE88EA-1F7C-48FB-9728-B2572D602F45}|CalcolatriceDivisione\\CalcolatriceDivisione.csproj|c:\\users\\ricca\\documents\\aiv\\csharp\\aiv_2024\\calcolatricedivisione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57AE88EA-1F7C-48FB-9728-B2572D602F45}|CalcolatriceDivisione\\CalcolatriceDivisione.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20241018\\aiv_2024\\calcolatricedivisione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57AE88EA-1F7C-48FB-9728-B2572D602F45}|CalcolatriceDivisione\\CalcolatriceDivisione.csproj|solutionrelative:calcolatricedivisione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C427349-037B-4C3F-A496-C384936718DC}|Lezione_1\\Lezione_1.csproj|C:\\Users\\ricca\\Documents\\AIV\\CSharp\\AIV_2024\\lezione_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C427349-037B-4C3F-A496-C384936718DC}|Lezione_1\\Lezione_1.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20241018\\AIV_2024\\lezione_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C427349-037B-4C3F-A496-C384936718DC}|Lezione_1\\Lezione_1.csproj|solutionrelative:lezione_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\AIV_2024\\CalcolatriceDivisione\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20241018\\AIV_2024\\CalcolatriceDivisione\\Program.cs",
               "RelativeDocumentMoniker": "CalcolatriceDivisione\\Program.cs",
-              "ToolTip": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\AIV_2024\\CalcolatriceDivisione\\Program.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20241018\\AIV_2024\\CalcolatriceDivisione\\Program.cs",
               "RelativeToolTip": "CalcolatriceDivisione\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\AIV_2024\\Lezione_1\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20241018\\AIV_2024\\Lezione_1\\Program.cs",
               "RelativeDocumentMoniker": "Lezione_1\\Program.cs",
-              "ToolTip": "C:\\Users\\ricca\\Documents\\AIV\\CSharp\\AIV_2024\\Lezione_1\\Program.cs",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20241018\\AIV_2024\\Lezione_1\\Program.cs",
               "RelativeToolTip": "Lezione_1\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

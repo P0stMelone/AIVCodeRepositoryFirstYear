@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250509\\aiv.fast2d.component - tiled\\game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\scene\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|c:\\github\\aivcoderepositoryfirstyear\\lezione_20250509\\aiv.fast2d.component - tiled\\game\\scripts\\utility\\layermesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\game\\scripts\\utility\\layermesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC91E18-8C49-400B-A4F8-8C947EAB6F72}|Aiv.Fast2D.Component.csproj|solutionrelative:game\\scripts\\utility\\layermesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Game\\Scripts\\Scene\\PlayScene.cs",
               "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Game\\Scripts\\Scene\\PlayScene.cs",
               "RelativeToolTip": "Game\\Scripts\\Scene\\PlayScene.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwD0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T10:09:44.531Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "RelativeToolTip": "Game\\Scripts\\Utility\\Layer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:50:19.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T17:50:19.726Z"
             },
             {
               "$type": "Document",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "Game\\Scripts\\Utility\\LayerMesh.cs",
               "ViewState": "AgIAAA0BAAAAAAAAAAAswHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:37:19.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T17:37:19.496Z"
             },
             {
               "$type": "Document",
@@ -144,12 +142,11 @@
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Engine\\Game.cs",
               "RelativeDocumentMoniker": "Engine\\Game.cs",
-              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Engine\\Game.cs*",
-              "RelativeToolTip": "Engine\\Game.cs*",
+              "ToolTip": "C:\\GitHub\\AIVCodeRepositoryFirstYear\\Lezione_20250509\\Aiv.Fast2D.Component - Tiled\\Engine\\Game.cs",
+              "RelativeToolTip": "Engine\\Game.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAmwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T16:16:32.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T16:16:32.136Z"
             },
             {
               "$type": "Document",
@@ -173,8 +170,7 @@
               "RelativeToolTip": "Game\\Scripts\\Component\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:33:40.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:33:40.696Z"
             }
           ]
         }
